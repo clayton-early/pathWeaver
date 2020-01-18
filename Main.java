@@ -1,3 +1,6 @@
+import edu.wpi.first.wpilibj.kinematics.DifferentialDriveKinematics;
+
+
 public class Main{
     //Need m_robotDrive, as setting up the drive. I don't know what we are going to use for this at the moment
     //Uses meters
